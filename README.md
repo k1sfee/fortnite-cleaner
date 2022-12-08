@@ -1,3 +1,3 @@
 # fortnite-cleaner
-This is a spoofer for fortnite.
+spoofer for fortnite chapter 4 season 1.
 Spoofer in a release.
