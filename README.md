@@ -1,3 +1,3 @@
-# k1sfee-dev-fortnite-cleaner
+# k1sfee-fortnite-cleaner
 spoofer for fortnite chapter 4 season 1.
 Spoofer in a release.
